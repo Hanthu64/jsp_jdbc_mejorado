@@ -21,5 +21,7 @@
     <input type="text" name="socioID">
     <input type="submit" value="Enviar">
 </form>
+
+<a href="entrenarSocio.jsp">Entrenar Socio</a>
 </body>
 </html>
